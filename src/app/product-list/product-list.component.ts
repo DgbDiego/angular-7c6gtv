@@ -14,6 +14,11 @@ export class ProductListComponent {
     window.alert('Produto Compartilhado!!');
     window.alert('Mitira!!');
   }
+  
+  onNotify(){
+    window.alert('Você será avisado quando o produto estiver a venda');
+  }
+
 }
 
 
