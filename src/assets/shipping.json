@@ -1,14 +1,14 @@
 [
   {
-    "type": "Overnight",
+    "type": "Instantâneo",
     "price": 25.99
   },
   {
-    "type": "2-Day",
+    "type": "Ainda hoje",
     "price": 9.99
   },
   {
-    "type": "Postal",
+    "type": "Correios",
     "price": 2.99
   }
 ]
